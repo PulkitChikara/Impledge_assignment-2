@@ -8,10 +8,10 @@ These are the 3 tasks given and their respective files.
 This project automates the execution of two test cases on the KloudShip application using Selenium WebDriver in Python. The test cases include adding a package (Test Case 01) and deleting a package (Test Case 02). The goal is to verify the functionality of adding and deleting packages on the KloudShip platform.
 
 # Design Decisions and Approach:
-Selenium WebDriver: Selenium WebDriver is chosen for its compatibility with web browsers and its ability to automate web interactions.
-Python: Python is selected as the programming language due to its simplicity, readability, and extensive support for Selenium WebDriver.
-Test Case Structure: Each test case is encapsulated within its function to promote modularity and readability.
-Error Handling: Exception handling is implemented to catch and print any errors that occur during test execution, providing visibility into potential issues.
+Selenium WebDriver: Selenium WebDriver is chosen for its compatibility with web browsers and its ability to automate web interactions.<br>
+Python: Python is selected as the programming language due to its simplicity, readability, and extensive support for Selenium WebDriver.<br>
+Test Case Structure: Each test case is encapsulated within its function to promote modularity and readability.<br>
+Error Handling: Exception handling is implemented to catch and print any errors that occur during test execution, providing visibility into potential issues.<br>
 
 # Setup
 Setup Python Environment: Ensure Python is installed on your system.
